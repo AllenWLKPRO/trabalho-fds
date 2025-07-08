@@ -1,0 +1,36 @@
+table {
+  width: 30%;
+  margin: 20px;
+  border-collapse: collapse; /* Remove os espaços entre as bordas */
+  border: 2px solid #333; /* Borda externa da tabela */
+}
+
+th, td {
+  border: 1px solid #333; /* Borda de cada célula */
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #dfe6e9; /* Fundo do cabeçalho */
+  font-size: 18px;
+}
+
+img {
+  border-radius: 10px;
+  width: 100px;
+}
+
+.skyrim {
+  border: 3px solid black;
+  border-radius: 7px;
+  width: 300px;
+  height: 300px;
+}
+
+.texto-roxo {
+  color: rgb(33, 1, 48);
+}
+
+body {
+  background-color: #dedff1; /* cinza bem clarinho */}
